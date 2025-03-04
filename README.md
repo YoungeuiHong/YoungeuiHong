@@ -1,16 +1,13 @@
-## Hi there 👋
+## 프론트엔드 개발자 홍영의입니다 👋
 
-<!--
-**YoungeuiHong/YoungeuiHong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech Stack
+* 2년간 React + Spring + MongoDB로 웹 서비스를 개발하는 풀스택 개발자로 근무했습니다.
+* 현재는 프론트엔드 개발자로 근무하며, React, Zustand, Styled-Components, Vite를 활용한 개발에 집중하고 있습니다.
+* 사이드 프로젝트에서는 Next.js를 주로 사용하며, React Query, PWA 등 다양한 기술을 적용하며 성장하고 있습니다.
 
-Here are some ideas to get you started:
+| Category       | Tech Stack                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Frontend**  | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Zustand](https://img.shields.io/badge/🐻%20Zustand-000000?style=flat&logoColor=white) ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=react-query&logoColor=white) ![Vanilla Extract](https://img.shields.io/badge/🎨%20Vanilla%20Extract-%235f78c5?style=flat) ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white) ![Styled-Components](https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white) |
+| **Backend**   | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **DevOps**    | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=flat&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                       |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
